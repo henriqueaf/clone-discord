@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/clone-discord/static/js/main.da614342.chunk.js",
+    "main.js.map": "/clone-discord/static/js/main.da614342.chunk.js.map",
+    "runtime-main.js": "/clone-discord/static/js/runtime-main.6f54f3ca.js",
+    "runtime-main.js.map": "/clone-discord/static/js/runtime-main.6f54f3ca.js.map",
+    "static/js/2.2bd6f369.chunk.js": "/clone-discord/static/js/2.2bd6f369.chunk.js",
+    "static/js/2.2bd6f369.chunk.js.map": "/clone-discord/static/js/2.2bd6f369.chunk.js.map",
+    "index.html": "/clone-discord/index.html",
+    "precache-manifest.7c7d61419c002866908adf179e59ff42.js": "/clone-discord/precache-manifest.7c7d61419c002866908adf179e59ff42.js",
+    "service-worker.js": "/clone-discord/service-worker.js",
+    "static/js/2.2bd6f369.chunk.js.LICENSE.txt": "/clone-discord/static/js/2.2bd6f369.chunk.js.LICENSE.txt",
+    "static/media/logo-rocketseat.svg": "/clone-discord/static/media/logo-rocketseat.3fbf5a84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f54f3ca.js",
+    "static/js/2.2bd6f369.chunk.js",
+    "static/js/main.da614342.chunk.js"
+  ]
+}
